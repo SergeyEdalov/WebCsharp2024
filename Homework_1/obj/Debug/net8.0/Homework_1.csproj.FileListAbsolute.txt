@@ -138,3 +138,4 @@ D:\Study_programmist\Курс. Разработка веб-приложения 
 D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_1\obj\Debug\net8.0\Homework_1.pdb
 D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_1\obj\Debug\net8.0\Homework_1.genruntimeconfig.cache
 D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_1\obj\Debug\net8.0\ref\Homework_1.dll
+D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_1\obj\Debug\net8.0\Homework_1.sourcelink.json
