@@ -137,9 +137,9 @@ D:\Study_programmist\Курс. Разработка веб-приложения 
 D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Homework_2.props
 D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_2\obj\Debug\net8.0\staticwebassets.pack.json
 D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_2\obj\Debug\net8.0\scopedcss\bundle\Homework_2.styles.css
-D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_2\obj\Debug\net8.0\Homework_2.csproj.CopyComplete
 D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_2\obj\Debug\net8.0\Homework_2.dll
 D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_2\obj\Debug\net8.0\refint\Homework_2.dll
 D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_2\obj\Debug\net8.0\Homework_2.pdb
 D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_2\obj\Debug\net8.0\Homework_2.genruntimeconfig.cache
 D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_2\obj\Debug\net8.0\ref\Homework_2.dll
+D:\Study_programmist\Курс. Разработка веб-приложения на С#\Homeworks\Homework_2\obj\Debug\net8.0\Homework_2.csproj.Up2Date
